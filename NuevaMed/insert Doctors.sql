@@ -1,3 +1,0 @@
-﻿insert into Doctor values (2020, 'Oto' , 'Anatolevich' , 'MTWR 12p.m --> 6p.m , FS 9a.m --> 12a.m' , 0022 , 'C:\Users\PC\Desktop\NuevaMed\NuevaMed\bin\Debug\Images\Anatolevich.jpeg');
-insert into Doctor values (2019, 'Cardio' , 'Zahi', 'MTWR 10a.m --> 6p.m , FS 9a.m --> 12a.m' , 0033 , 'C:\Users\PC\Desktop\NuevaMed\NuevaMed\bin\Debug\Images\Zahi.jpeg' );
-insert into Doctor values (2018, 'Optha' , 'Khashab' , 'MTWR 11a.m --> 8p.m , FS 9a.m --> 12a.m' , 0044 , 'C:\Users\PC\Desktop\NuevaMed\NuevaMed\bin\Debug\Images\Khashab.jpeg' );
